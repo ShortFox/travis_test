@@ -1,0 +1,6 @@
+[
+  "test_sin.py::test_internal",
+  "test_sin.py::test_edge_x",
+  "test_sin.py::test_edge_y",
+  "test_sin.py::test_corner_xy"
+]
